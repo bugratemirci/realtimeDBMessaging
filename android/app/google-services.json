@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086428013331",
+    "firebase_url": "https://rnmessagingservice-default-rtdb.firebaseio.com",
+    "project_id": "rnmessagingservice",
+    "storage_bucket": "rnmessagingservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086428013331:android:219a17f64948611bcdb0e6",
+        "android_client_info": {
+          "package_name": "com.realtimedbmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086428013331-nvjuahv41m6pg3ei268dhn1s4ls5b849.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93-yeB1fAYhXimw-DSg0W8jpnmFUoRF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086428013331-nvjuahv41m6pg3ei268dhn1s4ls5b849.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
